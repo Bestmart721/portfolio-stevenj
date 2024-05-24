@@ -71,12 +71,12 @@ function MyApp({ Component, pageProps }) {
         <meta property="og:url" content="https://steven-han.vercel.app"/>
         <meta property="og:description" content="Steven Han Jiménez portfolio, web developer, UX engineer, frontend developer. Last projects and use cases working on former companies like New Relic, Qatium, Idrica, GoAigua, Nectar Estudio "/>
         <meta property="og:type" content="profile"/>
-        <meta property="og:image" content="https://steven-han.vercel.app/jose-luis-gonzalez-portfolio-og-image.jpg"/>
+        <meta property="og:image" content="https://steven-han.vercel.app/bird_2.jpg"/>
         <meta name="twitter:card" content="summary_large_image"/>
         <meta name="twitter:image:alt" content="Steven Han - Portfolio website"/>
         <meta name="twitter:title" content="Steven Han - Portfolio - Web Developer and Code Lover"/>
         <meta name="twitter:description" content="Steven Han Jiménez portfolio, web developer, UX engineer, frontend developer. Last projects and use cases working on former companies like New Relic, Qatium, Idrica, GoAigua, Nectar Estudio."/>
-        <meta name="twitter:image" content="https://steven-han.vercel.app/jose-luis-gonzalez-portfolio-og-image.jpg"/>
+        <meta name="twitter:image" content="https://steven-han.vercel.app/bird_2.jpg"/>
         <link rel="icon" href="s.png" />
 
         <link rel="preload" href="/assets/newrelic-cover-background.jpg" as="image"/>
