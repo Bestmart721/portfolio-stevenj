@@ -77,7 +77,7 @@ function MyApp({ Component, pageProps }) {
         <meta name="twitter:title" content="Steven Han - Portfolio - Web Developer and Code Lover"/>
         <meta name="twitter:description" content="Steven Han Jiménez portfolio, web developer, UX engineer, frontend developer. Last projects and use cases working on former companies like New Relic, Qatium, Idrica, GoAigua, Nectar Estudio."/>
         <meta name="twitter:image" content="https://steven-han.vercel.app/jose-luis-gonzalez-portfolio-og-image.jpg"/>
-        <link rel="icon" href="favicon.ico" />
+        <link rel="icon" href="s.png" />
 
         <link rel="preload" href="/assets/newrelic-cover-background.jpg" as="image"/>
         <link rel="preload" href="/assets/qatium-cover-background.jpg" as="image"/>
