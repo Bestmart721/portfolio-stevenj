@@ -38,7 +38,7 @@ export default function Figmap(props) {
   return (
     <>
       <Head>
-      <title>José Luis González - Portfolio - Figmap</title>
+      <title>Steven Han - Portfolio - Figmap</title>
         <meta name="description" content="Side project making the Figmap plugin for Figmap"/>
         <link rel="preload" href="/assets/figmap-cover-hero-1.png" as="image" />
         <link rel="preload" href="/assets/figmap-cover-hero-2.png" as="image" />
@@ -49,7 +49,7 @@ export default function Figmap(props) {
         <ProjectCover
           title="Product"
           subtitle="Figmap"
-          role="UX Designer/Engineer"
+          role="Frontend Engineer"
           client="Side project"
           heroImage={figmapCoverHero}
           heroImages={[figmapCoverHero1, figmapCoverHero2, figmapCoverHero3]}

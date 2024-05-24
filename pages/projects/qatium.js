@@ -49,7 +49,7 @@ export default function Qatium(props) {
   return (
     <>
       <Head>
-      <title>José Luis González - Portfolio - Qatium</title>
+      <title>Steven Han - Portfolio - Qatium</title>
         <meta name="description" content="Projects and use cases working at Qatium as a Head of design and UX Engineer"/>
         <link rel="preload" href="/assets/qatium-cover-hero-1.png" as="image" />
         <link rel="preload" href="/assets/qatium-cover-hero-2.png" as="image" />
@@ -85,7 +85,7 @@ export default function Qatium(props) {
           images={[qatiumIllustration2]}
           texts={[
             "Lean and Agile startup mindset",
-            "From creating different probes of concepts and MVPs either making designs or coding experiences being the first and unique Product Designer at the company to consolidating and leading a small product design team composed by UX Researchers, Product Designers and Frontend UI. Driving branding and product market fit definition and service design using Design Thinking, UX Lean and Agile methodologies.",
+            "From creating different probes of concepts and MVPs either making designs or coding experiences being the first and unique Web Developer at the company to consolidating and leading a small product design team composed by UX Researchers, Web Developers and Frontend UI. Driving branding and product market fit definition and service design using Design Thinking, UX Lean and Agile methodologies.",
           ]}
         />
         <ProjectBlock

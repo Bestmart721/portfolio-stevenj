@@ -35,8 +35,8 @@ export default function Muchosol(props) {
   return (
     <>
       <Head>
-      <title>José Luis González - Portfolio - Muchosol</title>
-        <meta name="description" content="Projects and use cases working at Avantio for Muchosol as a Principal Product Designer"/>
+      <title>Steven Han - Portfolio - Muchosol</title>
+        <meta name="description" content="Projects and use cases working at Avantio for Muchosol as a Principal Web Developer"/>
         <link rel="preload" href="/assets/muchosol-cover-hero.png" as="image"/>
         <link rel="preload" href="/assets/muchosol-cover-background.jpg" as="image"/>
       </Head>
@@ -44,7 +44,7 @@ export default function Muchosol(props) {
         <ProjectCover
           title="Product"
           subtitle="Muchosol"
-          role="Principal Product Designer"
+          role="Principal Web Developer"
           client="Avantio"
           heroImage={MuchosolCoverHero}
           backgroundImage={MuchosolCoverBackground}

@@ -61,8 +61,8 @@ export default function NewRelic(props) {
   return (
     <>
       <Head>
-        <title>José Luis González - Portfolio - New Relic</title>
-        <meta name="description" content="Projects and use cases working at New Relic as a Senior Product Designer"/>
+        <title>Steven Han - Portfolio - New Relic</title>
+        <meta name="description" content="Projects and use cases working at New Relic as a Senior Web Developer"/>
         <link rel="preload" href="/assets/newrelic-cover-hero-1.png" as="image" />
         <link rel="preload" href="/assets/newrelic-cover-hero-2.png" as="image" />
         <link rel="preload" href="/assets/newrelic-cover-hero-3.png" as="image" />
@@ -73,7 +73,7 @@ export default function NewRelic(props) {
         <ProjectCover
           title="Product"
           subtitle="New Relic One"
-          role="Senior Product Designer"
+          role="Senior Web Developer"
           client="New Relic"
           heroImage={newrelicCoverHero}
           heroImages={[newrelicCoverHero1, newrelicCoverHero2, newrelicCoverHero3]}
@@ -144,7 +144,7 @@ export default function NewRelic(props) {
           images={[newrelicFigmaWorkflow1,newrelicFigmaWorkflow2,newrelicFigmaWorkflow3]}
           texts={[
             "Figma standards",
-            "Driving and supporting the DesignOps team in order to set up the Figma guidelines to get a common way to work and use the tool for all the product designers composed of around 120 people, content designers and ux researchers with a feature centric and scalable approach.<br/><br/>Going from file and cover templates, layer naming conventions, file structure location, control version and branching, documentation, flows, handover and collaboration… to automatisation like centralized source of truth connected to Confluence, layer naming linting or synchronized documentation.",
+            "Driving and supporting the DesignOps team in order to set up the Figma guidelines to get a common way to work and use the tool for all the web developers composed of around 120 people, content designers and ux researchers with a feature centric and scalable approach.<br/><br/>Going from file and cover templates, layer naming conventions, file structure location, control version and branching, documentation, flows, handover and collaboration… to automatisation like centralized source of truth connected to Confluence, layer naming linting or synchronized documentation.",
           ]}
         />
     

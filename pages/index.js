@@ -142,9 +142,9 @@ export default function Home() {
             className="absolute opacity-0 top-48 md:top-[70%] left-6 md:left-[calc(50%+8rem)] lg:left-[calc(50%+10rem)] text-2xl lg:text-3xl font-thin z-[2] md:z-[1]"
           >
             <span className="hidden md:block">
-              Product
+              Web Developer
               <br />
-              designer &<br /> Code lover
+              Mobile Engineer
             </span>
             <span className="block md:hidden">
               Web Developer
@@ -176,13 +176,10 @@ export default function Home() {
               About me
             </h1>
             <h3 className="text-center text-2xl lg:text-3xl font-extralight py-5 reveal">
-             Over <b>20 years</b> of design experience,
-              based in <b>Valencia</b>. 
+             Over <b>11 years</b> of professional experience,
+              based in <b>Liaoning, China</b>. 
               Nowadays I work as a{" "}
-              <b>Senior UX Designer/Engineer</b> at{" "}
-              <a href="http://www.elastic.co" target="_blank" rel="noreferrer">
-                Elastic
-              </a>
+              <b>Senior Software Engineer</b> or Freelancer
               , making useful and delightful developer tools.
             </h3>
             <p className="text-center  text-lg lg:text-xl py-5 font-extralight reveal">
@@ -222,7 +219,7 @@ export default function Home() {
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-base lg:text-lg font-extralight py-5 reveal">
               <div>
-                Huge design thinking and people first advocate, product designer
+                Huge design thinking and people first advocate, web developer
                 and code lover which means that I like to make interactive
                 artifacts either using design tools or coding with front end
                 languages to solve complex user problems.
@@ -254,7 +251,7 @@ export default function Home() {
               <ul className="flex justify-center py-5 ">
                 <li className="mr-6">
                   <a
-                    href="mailto:hola@joseluis.design"
+                    href="mailto:steven93721@gmail.com"
                     target="_blank"
                     rel="noreferrer"
                   >

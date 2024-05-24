@@ -50,8 +50,8 @@ export default function GoAigua(props) {
   return (
     <>
       <Head>
-      <title>José Luis González - Portfolio - Goaigua</title>
-        <meta name="description" content="Projects and use cases working at Idrica making Goaigua as a Principal Product Designer and UX Engineer"/>
+      <title>Steven Han - Portfolio - Goaigua</title>
+        <meta name="description" content="Projects and use cases working at Idrica making Goaigua as a Principal Web Developer and UX Engineer"/>
         <link rel="preload" href="/assets/goaigua-cover-hero-1.png" as="image" />
         <link rel="preload" href="/assets/goaigua-cover-hero-2.png" as="image" />
         <link rel="preload" href="/assets/goaigua-cover-hero-3.png" as="image" />
@@ -61,7 +61,7 @@ export default function GoAigua(props) {
         <ProjectCover
           title="Product"
           subtitle="GoAigua"
-          role="Principal Product Designer<br/>UX Engineer"
+          role="Principal Web Developer<br/>UX Engineer"
           client="Idrica"
           heroImage={goaiguaCoverHero}
           heroImages={[goaiguaCoverHero1, goaiguaCoverHero2, goaiguaCoverHero3]}
@@ -105,7 +105,7 @@ export default function GoAigua(props) {
           images={[goaiguaEars1, goaiguaEars2, goaiguaEars3]}
           texts={[
             "From individual contributor to management ",
-            "My role as a Principal Product Designer and UX engineer was to work side by side with each individual product team and marketing to deliver tailored solutions aiming for a common experience for the final users.<br/><br/>Once the platform got traction I was in charge of consolidating the first dedicated product design team of the company. Mentoring and setting up the guidelines on design wise.",
+            "My role as a Principal Web Developer and UX engineer was to work side by side with each individual product team and marketing to deliver tailored solutions aiming for a common experience for the final users.<br/><br/>Once the platform got traction I was in charge of consolidating the first dedicated product design team of the company. Mentoring and setting up the guidelines on design wise.",
           ]}
         />
         <ProjectBlock
