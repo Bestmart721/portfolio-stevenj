@@ -121,7 +121,7 @@ export default function Home() {
         <div className="relative h-screen w-full flex items-end justify-center">
           <h1
             ref={h1Ref}
-            className="absolute opacity-0 top-8 md:top-[35%] left-6 md:left-[calc(40%-14rem)] z-[3] text-5xl md:text-5xl lg:text-6xl font-thin"
+            className="absolute opacity-0 top-8 md:top-[8%] left-6 md:left-[calc(40%-14rem)] z-[3] text-5xl md:text-5xl lg:text-6xl font-thin"
           >
             <span className="block" ref={h1SpanRef}>
               {" "}
@@ -258,7 +258,7 @@ export default function Home() {
                     <Image className="" src={emailIcon} alt="email" />
                   </a>
                 </li>
-                <li className="mr-6">
+                {/* <li className="mr-6">
                   <a
                     href="https://www.linkedin.com/in/joseluisgj/"
                     target="_blank"
@@ -275,17 +275,17 @@ export default function Home() {
                   >
                     <Image className="" src={twitterIcon} alt="Twitter" />
                   </a>
-                </li>
+                </li> */}
                 <li className="mr-6">
                   <a
-                    href="https://github.com/JoseLuisGJ"
+                    href="https://github.com/bestmart721"
                     target="_blank"
                     rel="noreferrer"
                   >
                     <Image className="" src={githubIcon} alt="Github" />
                   </a>
                 </li>
-                <li className="mr-6">
+                {/* <li className="mr-6">
                   <a
                     href="https://medium.com/@joseluisgj"
                     target="_blank"
@@ -293,7 +293,7 @@ export default function Home() {
                   >
                     <Image className="" src={mediumIcon} alt="Medium" />
                   </a>
-                </li>
+                </li> */}
               </ul>
             </div>
           </div>
