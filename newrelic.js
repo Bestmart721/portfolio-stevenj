@@ -9,7 +9,7 @@ exports.config = {
   /**
    * Array of application names.
    */
-  app_name: ["José Luis González | Portfolio | Nextjs APM"],
+  app_name: ["Steven Han | Portfolio | Nextjs APM"],
   /**
    * Your New Relic license key.
    */

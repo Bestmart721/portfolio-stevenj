@@ -127,9 +127,9 @@ export default function Home() {
               {" "}
               Hello! I&apos;m <br />
               <span className="font-normal" id="text-shuffle">
-                José Luis
+                Steven
                 <br />
-                González{" "}
+                <small>Steven Han</small>{" "}
               </span>
             </span>
           </h1>
@@ -147,7 +147,7 @@ export default function Home() {
               designer &<br /> Code lover
             </span>
             <span className="block md:hidden">
-              Product designer
+              Web Developer
               <br />& Code lover
             </span>
           </h2>

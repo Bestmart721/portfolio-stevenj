@@ -52,8 +52,8 @@ export default function GlobalOmnium(props) {
   return (
     <>
       <Head>
-      <title>José Luis González - Portfolio - Global Omnium</title>
-        <meta name="description" content="Projects and use cases working at Global Omnium as a Principal Product Designer and UX Engineer"/>
+      <title>Steven Han - Portfolio - Global Omnium</title>
+        <meta name="description" content="Projects and use cases working at Global Omnium as a Principal Web Developer and UX Engineer"/>
         <link rel="preload" href="/assets/global-omnium-cover-hero.png" as="image"/>
         <link rel="preload" href="/assets/global-omnium-cover-background.jpg" as="image"/>
       </Head>
@@ -61,7 +61,7 @@ export default function GlobalOmnium(props) {
         <ProjectCover
           title="Product"
           subtitle="Web, App & Interactive installations"
-          role="Principal Product Designer<br/>UX Engineer"
+          role="Principal Web Developer<br/>UX Engineer"
           client="Global Omnium"
           heroImage={globalOmniumCoverHero}
           backgroundImage={globalOmniumCoverBackground}
