@@ -61,22 +61,22 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Steven Han - Portfolio - Web Developer and Code Lover</title>
-        <meta name="description" content="Steven Han Jiménez portfolio, web developer, UX engineer, frontend developer. Last projects and use cases working on former companies like New Relic, Qatium, Idrica, GoAigua, Nectar Estudio "/>
+        <title>Milos V - Portfolio - Web Developer and Code Lover</title>
+        <meta name="description" content="Milos V Jiménez portfolio, web developer, UX engineer, frontend developer. Last projects and use cases working on former companies like New Relic, Qatium, Idrica, GoAigua, Nectar Estudio "/>
         <meta name="robots" content="index, follow"/>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <meta name="language" content="English"/>
-        <meta property="og:title" content="Steven Han - Portfolio - Web Developer and Code Lover"/>
-        <meta property="og:site_name" content="Steven Han | Portfolio"/>
-        <meta property="og:url" content="https://steven-han.vercel.app"/>
-        <meta property="og:description" content="Steven Han Jiménez portfolio, web developer, UX engineer, frontend developer. Last projects and use cases working on former companies like New Relic, Qatium, Idrica, GoAigua, Nectar Estudio "/>
+        <meta property="og:title" content="Milos V - Portfolio - Web Developer and Code Lover"/>
+        <meta property="og:site_name" content="Milos V | Portfolio"/>
+        <meta property="og:url" content="https://milos-v.vercel.app"/>
+        <meta property="og:description" content="Milos V Jiménez portfolio, web developer, UX engineer, frontend developer. Last projects and use cases working on former companies like New Relic, Qatium, Idrica, GoAigua, Nectar Estudio "/>
         <meta property="og:type" content="profile"/>
-        <meta property="og:image" content="https://steven-han.vercel.app/bird_2.jpg"/>
+        <meta property="og:image" content="https://milos-v.vercel.app/bird_2.jpg"/>
         <meta name="twitter:card" content="summary_large_image"/>
-        <meta name="twitter:image:alt" content="Steven Han - Portfolio website"/>
-        <meta name="twitter:title" content="Steven Han - Portfolio - Web Developer and Code Lover"/>
-        <meta name="twitter:description" content="Steven Han Jiménez portfolio, web developer, UX engineer, frontend developer. Last projects and use cases working on former companies like New Relic, Qatium, Idrica, GoAigua, Nectar Estudio."/>
-        <meta name="twitter:image" content="https://steven-han.vercel.app/bird_2.jpg"/>
+        <meta name="twitter:image:alt" content="Milos V - Portfolio website"/>
+        <meta name="twitter:title" content="Milos V - Portfolio - Web Developer and Code Lover"/>
+        <meta name="twitter:description" content="Milos V Jiménez portfolio, web developer, UX engineer, frontend developer. Last projects and use cases working on former companies like New Relic, Qatium, Idrica, GoAigua, Nectar Estudio."/>
+        <meta name="twitter:image" content="https://milos-v.vercel.app/bird_2.jpg"/>
         <link rel="icon" href="s.png" />
 
         <link rel="preload" href="/assets/newrelic-cover-background.jpg" as="image"/>

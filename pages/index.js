@@ -127,9 +127,9 @@ export default function Home() {
               {" "}
               Hello! I&apos;m <br />
               <span className="font-normal" id="text-shuffle">
-                Steven
+                Milos
                 <br />
-                <small>Steven Han</small>{" "}
+                <small>Veselinovic</small>{" "}
               </span>
             </span>
           </h1>
@@ -177,7 +177,7 @@ export default function Home() {
             </h1>
             <h3 className="text-center text-2xl lg:text-3xl font-extralight py-5 reveal">
              Over <b>11 years</b> of professional experience,
-              based in <b>Liaoning, China</b>. 
+              based in <b>Obrenovac</b>. 
               Nowadays I work as a{" "}
               <b>Senior Software Engineer</b> or Freelancer
               , making useful and delightful developer tools.
@@ -251,23 +251,23 @@ export default function Home() {
               <ul className="flex justify-center py-5 ">
                 <li className="mr-6">
                   <a
-                    href="mailto:steven93721@gmail.com"
+                    href="mailto:miloveselino@gmail.com"
                     target="_blank"
                     rel="noreferrer"
                   >
                     <Image className="" src={emailIcon} alt="email" />
                   </a>
                 </li>
-                {/* <li className="mr-6">
+                <li className="mr-6">
                   <a
-                    href="https://www.linkedin.com/in/joseluisgj/"
+                    href="https://www.linkedin.com/in/mvesel/"
                     target="_blank"
                     rel="noreferrer"
                   >
                     <Image className="" src={linkedinIcon} alt="Linkdin" />
                   </a>
                 </li>
-                <li className="mr-6">
+                {/* <li className="mr-6">
                   <a
                     href="https://twitter.com/jose_luis_gj"
                     target="_blank"

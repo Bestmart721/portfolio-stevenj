@@ -61,7 +61,7 @@ export default function NewRelic(props) {
   return (
     <>
       <Head>
-        <title>Steven Han - Portfolio - New Relic</title>
+        <title>Milos V - Portfolio - New Relic</title>
         <meta name="description" content="Projects and use cases working at New Relic as a Senior Web Developer"/>
         <link rel="preload" href="/assets/newrelic-cover-hero-1.png" as="image" />
         <link rel="preload" href="/assets/newrelic-cover-hero-2.png" as="image" />

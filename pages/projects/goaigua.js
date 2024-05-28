@@ -50,7 +50,7 @@ export default function GoAigua(props) {
   return (
     <>
       <Head>
-      <title>Steven Han - Portfolio - Goaigua</title>
+      <title>Milos V - Portfolio - Goaigua</title>
         <meta name="description" content="Projects and use cases working at Idrica making Goaigua as a Principal Web Developer and UX Engineer"/>
         <link rel="preload" href="/assets/goaigua-cover-hero-1.png" as="image" />
         <link rel="preload" href="/assets/goaigua-cover-hero-2.png" as="image" />
