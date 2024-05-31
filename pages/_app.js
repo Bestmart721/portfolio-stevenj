@@ -62,20 +62,20 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <title>Milos V - Portfolio - Web Developer and Code Lover</title>
-        <meta name="description" content="Milos V Jiménez portfolio, web developer, UX engineer, frontend developer. Last projects and use cases working on former companies like New Relic, Qatium, Idrica, GoAigua, Nectar Estudio "/>
+        <meta name="description" content="Miloš Veselinović portfolio, web developer, UX engineer, frontend developer. Last projects and use cases working on former companies like New Relic, Qatium, Idrica, GoAigua, Nectar Estudio "/>
         <meta name="robots" content="index, follow"/>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <meta name="language" content="English"/>
         <meta property="og:title" content="Milos V - Portfolio - Web Developer and Code Lover"/>
         <meta property="og:site_name" content="Milos V | Portfolio"/>
         <meta property="og:url" content="https://milos-v.vercel.app"/>
-        <meta property="og:description" content="Milos V Jiménez portfolio, web developer, UX engineer, frontend developer. Last projects and use cases working on former companies like New Relic, Qatium, Idrica, GoAigua, Nectar Estudio "/>
+        <meta property="og:description" content="Miloš Veselinović portfolio, web developer, UX engineer, frontend developer. Last projects and use cases working on former companies like New Relic, Qatium, Idrica, GoAigua, Nectar Estudio "/>
         <meta property="og:type" content="profile"/>
         <meta property="og:image" content="https://milos-v.vercel.app/bird_2.jpg"/>
         <meta name="twitter:card" content="summary_large_image"/>
         <meta name="twitter:image:alt" content="Milos V - Portfolio website"/>
         <meta name="twitter:title" content="Milos V - Portfolio - Web Developer and Code Lover"/>
-        <meta name="twitter:description" content="Milos V Jiménez portfolio, web developer, UX engineer, frontend developer. Last projects and use cases working on former companies like New Relic, Qatium, Idrica, GoAigua, Nectar Estudio."/>
+        <meta name="twitter:description" content="Miloš Veselinović portfolio, web developer, UX engineer, frontend developer. Last projects and use cases working on former companies like New Relic, Qatium, Idrica, GoAigua, Nectar Estudio."/>
         <meta name="twitter:image" content="https://milos-v.vercel.app/bird_2.jpg"/>
         <link rel="icon" href="s.png" />
 
