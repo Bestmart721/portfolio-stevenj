@@ -49,7 +49,7 @@ export default function Qatium(props) {
   return (
     <>
       <Head>
-      <title>Milos V - Portfolio - Qatium</title>
+      <title>Steven J - Portfolio - Qatium</title>
         <meta name="description" content="Projects and use cases working at Qatium as a Head of design and UX Engineer"/>
         <link rel="preload" href="/assets/qatium-cover-hero-1.png" as="image" />
         <link rel="preload" href="/assets/qatium-cover-hero-2.png" as="image" />

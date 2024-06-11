@@ -127,9 +127,9 @@ export default function Home() {
               {" "}
               Hello! I&apos;m <br />
               <span className="font-normal" id="text-shuffle">
-                Milos
+                Steven
                 <br />
-                <small>Veselinovic</small>{" "}
+                <small>Jaetzold</small>{" "}
               </span>
             </span>
           </h1>
@@ -176,8 +176,8 @@ export default function Home() {
               About me
             </h1>
             <h3 className="text-center text-2xl lg:text-3xl font-extralight py-5 reveal">
-             Over <b>11 years</b> of professional experience,
-              based in <b>Obrenovac</b>. 
+             <b>9+ years</b> of professional experience,
+              based in <b>Missouri City, Texas</b>. 
               Nowadays I work as a{" "}
               <b>Senior Software Engineer</b> or Freelancer
               , making useful and delightful developer tools.
@@ -251,7 +251,7 @@ export default function Home() {
               <ul className="flex justify-center py-5 ">
                 <li className="mr-6">
                   <a
-                    href="mailto:miloveselino@gmail.com"
+                    href="mailto:steven93721@gmail.com"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -260,7 +260,7 @@ export default function Home() {
                 </li>
                 <li className="mr-6">
                   <a
-                    href="https://www.linkedin.com/in/mvesel/"
+                    href="https://www.linkedin.com/in/stevenryanjaetzold/"
                     target="_blank"
                     rel="noreferrer"
                   >

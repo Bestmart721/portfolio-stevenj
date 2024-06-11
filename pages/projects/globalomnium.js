@@ -52,7 +52,7 @@ export default function GlobalOmnium(props) {
   return (
     <>
       <Head>
-      <title>Milos V - Portfolio - Global Omnium</title>
+      <title>Steven J - Portfolio - Global Omnium</title>
         <meta name="description" content="Projects and use cases working at Global Omnium as a Principal Web Developer and UX Engineer"/>
         <link rel="preload" href="/assets/global-omnium-cover-hero.png" as="image"/>
         <link rel="preload" href="/assets/global-omnium-cover-background.jpg" as="image"/>
