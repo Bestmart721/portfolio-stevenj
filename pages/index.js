@@ -258,7 +258,7 @@ export default function Home() {
                     <Image className="" src={emailIcon} alt="email" />
                   </a>
                 </li>
-                <li className="mr-6">
+                {/* <li className="mr-6">
                   <a
                     href="https://www.linkedin.com/in/stevenryanjaetzold/"
                     target="_blank"
@@ -266,7 +266,7 @@ export default function Home() {
                   >
                     <Image className="" src={linkedinIcon} alt="Linkdin" />
                   </a>
-                </li>
+                </li> */}
                 {/* <li className="mr-6">
                   <a
                     href="https://twitter.com/jose_luis_gj"
