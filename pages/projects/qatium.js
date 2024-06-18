@@ -61,7 +61,7 @@ export default function Qatium(props) {
         <ProjectCover
           title="Product "
           subtitle="Qatium"
-          role="Head of design<br/>UX engineer"
+          role="Full Stack Developer<br/>UX engineer"
           client="Qatium"
           heroImage={qatiumCoverHero}
           heroImages={[qatiumCoverHero1, qatiumCoverHero2, qatiumCoverHero3,qatiumCoverHero4]}
